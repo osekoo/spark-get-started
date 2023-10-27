@@ -1,3 +1,13 @@
+## TL;DR
+
+Quick setup:
+
+```
+git clone https://github.com/osekoo/spark-get-started.git
+cd spark-get-started
+run
+```
+
 ## Sommaire
 1. [Objectifs](#objectifs)
 2. [Prérequis](#prérequis)
